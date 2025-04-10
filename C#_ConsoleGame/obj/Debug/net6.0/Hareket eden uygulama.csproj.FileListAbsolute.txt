@@ -1,0 +1,14 @@
+C:\Users\ahmet\OneDrive\Masaüstü\Coding\Hareket eden uygulama\bin\Debug\net6.0\Hareket eden uygulama.exe
+C:\Users\ahmet\OneDrive\Masaüstü\Coding\Hareket eden uygulama\bin\Debug\net6.0\Hareket eden uygulama.deps.json
+C:\Users\ahmet\OneDrive\Masaüstü\Coding\Hareket eden uygulama\bin\Debug\net6.0\Hareket eden uygulama.runtimeconfig.json
+C:\Users\ahmet\OneDrive\Masaüstü\Coding\Hareket eden uygulama\bin\Debug\net6.0\Hareket eden uygulama.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Coding\Hareket eden uygulama\bin\Debug\net6.0\Hareket eden uygulama.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\Coding\Hareket eden uygulama\obj\Debug\net6.0\Hareket eden uygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\OneDrive\Masaüstü\Coding\Hareket eden uygulama\obj\Debug\net6.0\Hareket eden uygulama.AssemblyInfoInputs.cache
+C:\Users\ahmet\OneDrive\Masaüstü\Coding\Hareket eden uygulama\obj\Debug\net6.0\Hareket eden uygulama.AssemblyInfo.cs
+C:\Users\ahmet\OneDrive\Masaüstü\Coding\Hareket eden uygulama\obj\Debug\net6.0\Hareket eden uygulama.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\OneDrive\Masaüstü\Coding\Hareket eden uygulama\obj\Debug\net6.0\Hareket eden uygulama.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Coding\Hareket eden uygulama\obj\Debug\net6.0\refint\Hareket eden uygulama.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Coding\Hareket eden uygulama\obj\Debug\net6.0\Hareket eden uygulama.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\Coding\Hareket eden uygulama\obj\Debug\net6.0\Hareket eden uygulama.genruntimeconfig.cache
+C:\Users\ahmet\OneDrive\Masaüstü\Coding\Hareket eden uygulama\obj\Debug\net6.0\ref\Hareket eden uygulama.dll
